@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+     <script
+      src="https://kit.fontawesome.com/4210741bcc.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <title>Document</title>
+  </head>
+  <body>
+    <header class="header-wrapper">
+      <div class="header">
+        <div class="checkbox-container">
+          <div class="checkbox-wrapper">
+            <input type="checkbox" id="toggle" />
+            <label class="checkbox" for="toggle">
+              <div class="trace"></div>
+              <div class="trace"></div>
+              <div class="trace"></div>
+            </label>
+            <div class="menu"></div>
+            <nav class="menu-items">
+              <ul>
+                <li>
+                  <a href="#">Home</a>
+                </li>
+                <li>
+                  <a href="#">Sobre</a>
+                </li>
+                <li>
+                  <a href="#">Projetos</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <h1>Luiz.F Spindola</Samp></h1>
+      <h2>Fullstack Developer</h2>
+      <div class="social-media">
+        <a target="_blank" href="https://www.linkedin.com/in/luiz-fernando-spindola-ds%C3%A1-00ba02265/">Linkedin</a>
+        <a target="_blank" href="https://github.com/luizspyn">Github</a>
+      </div>
+    </header>
+    <div class="container">
+      <div class="card-container">
+        <div class="card-text">
+          Olá e bem-vindo(a) ao meu portfólio! Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais.
+           Minhas habilidades abrangem várias tecnologias e áreas, incluindo: 
+           HTML5, CSS3, JavaScript, GIT/Github, React, Java e UX Design.
+
+
+        </div>
+        <div class="card">
+          <div class="card-wrapper">
+            <h2>Github</h2>
+            <p>Veja meus projetos!</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-container">
+        <div class="card">
+          <div class="card-wrapper">
+            <h2>Linkedin</h2>
+            <p>Vem ver minha carreira profissional!</p>
+          </div>
+        </div>
+        <div class="card-text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          distinctio nihil, culpa repudiandae atque facilis eveniet neque
+          consequuntur quas dolorem aliquam maiores nulla ullam optio fugit
+          voluptatibus soluta? Nulla, ipsum. Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa
+          repudiandae atque facilis eveniet neque consequuntur quas dolorem
+          aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla,
+          ipsum.
+        </div>
+      </div>
+
+      <div class="card-container">
+        <div class="card-text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          distinctio nihil, culpa repudiandae atque facilis eveniet neque
+          consequuntur quas dolorem aliquam maiores nulla ullam optio fugit
+          voluptatibus soluta? Nulla, ipsum. Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa
+          repudiandae atque facilis eveniet neque consequuntur quas dolorem
+          aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla,
+          ipsum.
+        </div>
+        <div class="card">
+          <div class="card-wrapper">
+            <h2>Email</h2>
+            <p>contate-me para um projeto ou vaga ;)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="inner">
+        <div class="text-center center-block">
+          <a
+            href="mailto:luiznando880@gmail.com"
+            target="_blank"
+            title="Email"
+            ><i class="fa fa-envelope-square fa-3x social social-em"></i
+          ></a>
+          <a
+            href="https://www.linkedin.com/in/luiz-fernando-spindola-ds%C3%A1-00ba02265/"
+            target="_blank"
+            title="Linkedin"
+            ><i class="fa fa-linkedin-square fa-3x social social-ln"></i>
+          </a>
+          <a
+            href="https://github.com/luizspyn"
+            target="_blank"
+            title="Github"
+            ><i class="fa fa fa-github fa-3x social social-gh"></i>
+          </a>
+        </div>
+        <div class="copyright text-center">
+      Copyright © 2023. Todos os direitos reservados. Design by
+          <a
+            href="https://www.linkedin.com/in/luiz-fernando-spindola-ds%C3%A1-00ba02265/"
+            target="_blank"
+          >
+            Luiz.F Spindola
+          </a>
+        </div>
+      </div>
+    </div>
+    </footer>
+  </body>
+</html>
